@@ -1,3 +1,3 @@
 export default function () {
-    console.log('baz-pkg');
+    console.log('baz-pkg2');
 }

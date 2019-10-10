@@ -1,3 +1,3 @@
 export default function () {
-    console.log('bar-pkg');
+    console.log('bar-pkg2');
 }
